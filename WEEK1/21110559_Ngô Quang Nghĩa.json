@@ -1,0 +1,89 @@
+﻿{
+    "paragraphs": [
+        {
+            "text": "%pyspark\nprint('Xin chao. Minh ten la <Ngo Quang Nghia>')\n",
+            "user": "anonymous",
+            "dateUpdated": "2023-02-06T23:09:03+0700",
+            "config": {
+                "colWidth": 12,
+                "fontSize": 9,
+                "enabled": true,
+                "results": {},
+                "editorSetting": {
+                    "language": "python",
+                    "editOnDblClick": false,
+                    "completionKey": "TAB",
+                    "completionSupport": true
+                },
+                "editorMode": "ace/mode/python",
+                "editorHide": false,
+                "tableHide": false
+            },
+            "settings": {
+                "params": {},
+                "forms": {}
+            },
+            "results": {
+                "code": "SUCCESS",
+                "msg": [
+                    {
+                        "type": "TEXT",
+                        "data": "Xin chao. Minh ten la <Ngo Quang Nghia>\n"
+                    }
+                ]
+            },
+            "apps": [],
+            "jobName": "paragraph_1675655744088_1210813847",
+            "id": "20230206-105544_1551701551",
+            "dateCreated": "2023-02-06T10:55:44+0700",
+            "dateStarted": "2023-02-06T23:09:03+0700",
+            "dateFinished": "2023-02-06T23:09:26+0700",
+            "status": "FINISHED",
+            "progressUpdateIntervalMs": 500,
+            "$$hashKey": "object:238"
+        },
+        {
+            "text": "%pyspark\n",
+            "user": "anonymous",
+            "dateUpdated": "2023-02-06T23:09:03+0700",
+            "config": {
+                "colWidth": 12,
+                "fontSize": 9,
+                "enabled": true,
+                "results": {},
+                "editorSetting": {
+                    "language": "scala",
+                    "editOnDblClick": false,
+                    "completionKey": "TAB",
+                    "completionSupport": true
+                },
+                "editorMode": "ace/mode/scala"
+            },
+            "settings": {
+                "params": {},
+                "forms": {}
+            },
+            "apps": [],
+            "jobName": "paragraph_1675699743873_-1199533987",
+            "id": "20230206-230903_54933743",
+            "dateCreated": "2023-02-06T23:09:03+0700",
+            "status": "READY",
+            "progressUpdateIntervalMs": 500,
+            "focus": true,
+            "$$hashKey": "object:590"
+        }
+    ],
+    "name": "21110559_Ngô Quang Nghĩa",
+    "id": "2HRB6KW8W",
+    "noteParams": {},
+    "noteForms": {},
+    "angularObjects": {
+        "spark:shared_process": []
+    },
+    "config": {
+        "isZeppelinNotebookCronEnable": false,
+        "looknfeel": "default",
+        "personalizedMode": "false"
+    },
+    "info": {}
+}
